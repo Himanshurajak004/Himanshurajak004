@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurajak004&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurajak004" /> </p>
 
 
-- 👨‍💻 All the projects are available at https://github.com/Himanshurajak004/Himanshurajak004
+- 👨‍💻 All the projects are available at (https://github.com/Himanshurajak004?tab=repositories)
 
 - 📫 How to reach me **rajakhimanshu.006@gmail.com**
 

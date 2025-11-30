@@ -12,6 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
   <!-- Frontend -->
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -52,6 +53,9 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -63,12 +67,9 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshurajak004&show_icons=true&locale=en&layout=compact" alt="himanshurajak004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajak004&show_icons=true&locale=en" alt="himanshurajak004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajak004&" alt="himanshurajak004" /></p>

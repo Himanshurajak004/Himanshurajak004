@@ -42,6 +42,11 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwindcss" width="40" height="40" />
 </a>
+<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"
+       alt="GSAP" width="40" height="40" />
+</a>
+
 
 
   <!-- Programming Languages -->

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rajak</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400"
-  src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=himanshurajak004&label=Profile%20views&color=0e75b6&style=flat"
@@ -22,6 +21,29 @@
 <p align="left">
 
   <!-- Frontend -->
+  <!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    alt="linux" width="40" height="40" />
+</a>
+
+<!-- Bash / Shell Scripting -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+    alt="bash" width="40" height="40" />
+</a>
+
+<!-- Ansible -->
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
+    alt="ansible" width="40" height="40" />
+</a>
+
+<!-- Terraform -->
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+    alt="terraform" width="40" height="40" />
+</a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" />
